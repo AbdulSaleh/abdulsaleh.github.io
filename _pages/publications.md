@@ -4,8 +4,22 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<html>
+<head>
+<style>
+ul.a {
+  list-style-position: outside;
+}
 
-<li > {list-style-position: outside;} K.K. Maninis, J. Pont-Tuset, P. Arbeláez, and Van Gool
+ul.b {
+  list-style-position: inside;
+}
+</style>
+</head>
+<body>
+
+
+<li > K.K. Maninis, J. Pont-Tuset, P. Arbeláez, and Van Gool
   <br><b>Convolutional Oriented Boundaries: From Image Segmentation to High-Level Tasks</b><br>
 <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i>, vol. 40, no. 4, pp. 819 - 833, 2018.
 <br />
