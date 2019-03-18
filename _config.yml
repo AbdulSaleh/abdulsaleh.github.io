@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "Abdul Saleh"
 title_separator          : "-"
 name                     : &name "Abdul Saleh"
 description              : &description "Senior studying CS & Stat at Harvard College. Undergraduate researcher at MIT Media Lab."
