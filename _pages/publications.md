@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
+
 You can also find my articles on my [Google Scholar profile]("")
 
 <ul style="margin-right: 300px;">
