@@ -4,7 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+* {
+font: 16px arial, sans-serif;
+}
 
 <ul>
 <li > K.K. Maninis, J. Pont-Tuset, P. Arbeláez, and Van Gool
