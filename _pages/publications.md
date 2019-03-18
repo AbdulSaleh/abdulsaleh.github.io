@@ -13,7 +13,7 @@ li {font size="3";}
 
 You can also find my articles on my [Google Scholar profile]("")
 
-<ul style="margin-right: 300px;">
+<ul>
 <li ><font size="3"> K.K. Maninis, J. Pont-Tuset, P. Arbeláez, and Van Gool</font>
   <br><font size="3"><b>Convolutional Oriented Boundaries: From Image Segmentation to High-Level Tasks</b></font><br>
 <font size="3"><i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2018</i> .
