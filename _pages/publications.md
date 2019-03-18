@@ -7,18 +7,14 @@ author_profile: true
 <html>
 <head>
 <style>
-ul.a {
+ul {
   list-style-position: outside;
-}
-
-ul.b {
-  list-style-position: inside;
 }
 </style>
 </head>
 <body>
 
-
+<ul>
 <li > K.K. Maninis, J. Pont-Tuset, P. Arbeláez, and Van Gool
   <br><b>Convolutional Oriented Boundaries: From Image Segmentation to High-Level Tasks</b><br>
 <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i>, vol. 40, no. 4, pp. 819 - 833, 2018.
@@ -28,6 +24,7 @@ ul.b {
  
 </li>
 </body>
+</ul>
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
