@@ -4,12 +4,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+<head>
 <style>
 body {background-color: powderblue;}
 h1   {color: blue;}
 p    {color: red;}
 </style>
+</head>
 
 You can also find my articles on my [Google Scholar profile]("")
 
