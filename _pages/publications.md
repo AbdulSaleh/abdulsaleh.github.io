@@ -8,7 +8,7 @@ author_profile: true
 
 <style>
 ul {margin-right: 300px;}
-ul li {font size=3;}
+br {line-height: 50%;}
 </style>
 
 You can also find my articles on my [Google Scholar profile]("")
@@ -19,7 +19,7 @@ You can also find my articles on my [Google Scholar profile]("")
 <font size="3"><i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2018</i> .
   </font><br />
   <a href="javascript:toggleBibtex('Maninis2018')"><font size="3">[BibTeX]</font></a>
-<a href="http://arxiv.org/abs/1701.04658" target="_blank">[PDF]</a> <a href="http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/"  target="_blank">[Project Page]</a>
+  <a href="http://arxiv.org/abs/1701.04658" target="_blank"><font size="3">[PDF]</font></a> 
  
 </li>
 
