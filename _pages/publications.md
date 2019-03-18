@@ -17,8 +17,8 @@ You can also find my articles on my [Google Scholar profile]("")
   <br><font size="3"><b>Team PISTACHON at SemEval-2019 Task 4: Propaganda Analysis Meets Hyperpartisan News Detection</b></font><br>
 <font size="3"><i>Proceedings of The 13th International Workshop on Semantic Evaluation (SemEval)</i>
   </font><br />
-  <a href="javascript:toggleBibtex('Maninis2018')"><font size="3">[BibTeX]</font></a>
-  <a href="http://arxiv.org/abs/1701.04658" target="_blank"><font size="3">[PDF]</font></a> 
+  <a href="http://arxiv.org/"><font size="3">[BibTeX]</font></a>
+  <a href="http://arxiv.org/"><font size="3">[PDF]</font></a> 
  
 </li>
 
@@ -26,8 +26,8 @@ You can also find my articles on my [Google Scholar profile]("")
   <br><font size="3"><b>Multi-Task Ordinal Regression for Jointly Predicting the Trustworthiness and Leading Political Ideology of News Media</b></font><br>
 <font size="3"><i>Proceedings of the 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)</i>
   </font><br />
-  <a href="javascript:toggleBibtex('Maninis2018')"><font size="3">[BibTeX]</font></a>
-  <a href="http://arxiv.org/abs/1701.04658" target="_blank"><font size="3">[PDF]</font></a> 
+  <a href="http://arxiv.org/abs/"><font size="3">[BibTeX]</font></a>
+  <a href="http://arxiv.org/abs/"><font size="3">[PDF]</font></a> 
  
 </li>
 </ul>
