@@ -4,15 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<html>
-<head>
-<style>
-ul.a {
-  list-style-position: outside;
-}
-</style>
-</head>
-<body>
+
 
 <ul>
 <li > K.K. Maninis, J. Pont-Tuset, P. Arbeláez, and Van Gool
@@ -24,7 +16,7 @@ ul.a {
  
 </li>
 </ul>
-</body>
+
 
 
 {% if author.googlescholar %}
