@@ -7,8 +7,8 @@ author_profile: true
 
 
 <style>
-ul {margin-right: 300px;}
-p {line-height: 0.7;}
+ul {margin-right: 300px;line-height: 0.5;}
+p {line-height: 0.5;}
 
 </style>
 
