@@ -7,9 +7,7 @@ author_profile: true
 
 
 <style>
-ul {margin-right: 300px;line-height: 0.5;}
-p {line-height: 0.5;}
-
+ul {margin-right: 300px;line-height: 0.9;}
 </style>
 
 You can also find my articles on my [Google Scholar profile]("")
