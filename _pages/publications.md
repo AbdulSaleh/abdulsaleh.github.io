@@ -7,9 +7,7 @@ author_profile: true
 
 
 <style>
-body {background-color: powderblue;}
-h1   {color: blue;}
-p    {color: red;}
+ul {font size=3;}
 </style>
 
 You can also find my articles on my [Google Scholar profile]("")
