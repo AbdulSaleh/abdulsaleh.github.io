@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile]("")
 
-<ul style="margin-right: 200px;">
+<ul style="margin-right: 350px;">
 <li ><font size="4"> K.K. Maninis, J. Pont-Tuset, P. Arbeláez, and Van Gool</font>
   <br><font size="4"><b>Convolutional Oriented Boundaries: From Image Segmentation to High-Level Tasks</b></font><br>
 <font size="4"><i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2018</i> .
