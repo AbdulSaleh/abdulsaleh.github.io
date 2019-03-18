@@ -8,7 +8,8 @@ author_profile: true
 
 <style>
 ul {margin-right: 300px;}
-br {display: block; margin: 10px 0; content: " ";}
+p {line-height: 0.7;}
+
 </style>
 
 You can also find my articles on my [Google Scholar profile]("")
