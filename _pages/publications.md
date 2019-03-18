@@ -4,9 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* {
-font: 16px arial, sans-serif;
-}
 
 <ul>
 <li > K.K. Maninis, J. Pont-Tuset, P. Arbeláez, and Van Gool
@@ -29,10 +26,7 @@ font: 16px arial, sans-serif;
 </ul>
 
 
-
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
-
-{% include base_path %}
 
