@@ -8,7 +8,7 @@ author_profile: true
 
 <style>
 ul {margin-right: 300px;}
-li {font size="3";}
+li {font size=3;}
 </style>
 
 You can also find my articles on my [Google Scholar profile]("")
