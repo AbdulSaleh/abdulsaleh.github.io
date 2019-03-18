@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+
 <ul>
 <li > K.K. Maninis, J. Pont-Tuset, P. Arbeláez, and Van Gool
   <br><b>Convolutional Oriented Boundaries: From Image Segmentation to High-Level Tasks</b><br>
@@ -24,9 +26,4 @@ author_profile: true
  
 </li>
 </ul>
-
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
