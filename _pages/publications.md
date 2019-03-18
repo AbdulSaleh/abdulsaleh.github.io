@@ -7,7 +7,7 @@ author_profile: true
 
 
 <style>
-ul {margin-right: 300px;line-height: 0.97;}
+ul {margin-right: 300px;line-height: 1.1;}
 </style>
 
 You can also find my articles on my [Google Scholar profile]("")
