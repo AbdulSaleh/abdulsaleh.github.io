@@ -15,7 +15,7 @@ You can also find my articles on my [Google Scholar profile]("")
 
 <ul>
 <li ><font size="3"> A. Saleh, R. Baly, A. Barron-Cedeno, G. Da San Martino, M. Mohtarami, P. Nakov, and J. Glass</font>
-  <br><font size="3"><b>Team PISTACHON at SemEval-2019 Task 4: Propaganda Analysis Meets Hyperpartisan News Detection</b></font><br>
+  <br><font size="3"><b>Team QCRI-MIT at SemEval-2019 Task 4: Propaganda Analysis Meets Hyperpartisan News Detection</b></font><br>
 <font size="3"><i>Proceedings of the 13th International Workshop on Semantic Evaluation (SemEval)</i>
   </font><br />
   <a href="http://arxiv.org/"><font size="3">[BibTeX]</font></a>
