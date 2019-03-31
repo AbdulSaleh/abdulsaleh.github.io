@@ -6,9 +6,11 @@ author_profile: true
 ---
 
 
-<style>
-ul {margin-right: 425px;line-height: 1.2;}
-</style>
+@media screen and (min-width: 800px) {
+  <style>
+  ul {margin-right: 425px;line-height: 1.2;}
+  </style>
+}
 
 You can also find my articles on my [Google Scholar profile]("")
 
