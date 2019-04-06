@@ -11,7 +11,7 @@ author_profile: true
 }
 </style>
 
-You can also find my articles on my [Google Scholar profile]("")
+You can also find my articles on my [Google Scholar profile]("https://scholar.google.com/citations?user=XkEZl0gAAAAJ&hl=en")
 
 <ul>
 <li ><font size="3"> A. Saleh, R. Baly, A. Barron-Cedeno, G. Da San Martino, M. Mohtarami, P. Nakov, and J. Glass</font>
