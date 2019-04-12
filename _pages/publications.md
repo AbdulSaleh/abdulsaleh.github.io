@@ -19,7 +19,7 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
 <font size="3"><i>Proceedings of the 13th International Workshop on Semantic Evaluation (SemEval)</i>
   </font><br />
   <a href="http://arxiv.org/"><font size="3">[BibTeX]</font></a>
-  <a href="http://arxiv.org/"><font size="3">[PDF]</font></a> 
+  <a href="https://arxiv.org/pdf/1904.03513.pdf"><font size="3">[PDF]</font></a> 
  
 </li>
 
@@ -28,7 +28,7 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
 <font size="3"><i>Proceedings of the 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)</i>
   </font><br />
   <a href="http://arxiv.org/abs/"><font size="3">[BibTeX]</font></a>
-  <a href="http://arxiv.org/abs/"><font size="3">[PDF]</font></a> 
+  <a href="https://arxiv.org/pdf/1904.00542.pdf"><font size="3">[PDF]</font></a> 
  
 </li>
 </ul>
