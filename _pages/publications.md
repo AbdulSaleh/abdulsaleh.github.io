@@ -18,7 +18,7 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
   <br><font size="3"><b>Team QCRI-MIT at SemEval-2019 Task 4: Propaganda Analysis Meets Hyperpartisan News Detection</b></font><br>
 <font size="3"><i>Proceedings of the 13th International Workshop on Semantic Evaluation (SemEval)</i>
   </font><br />
-  <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:YG1qWeOo55QJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXN95tvMdi0pr_gJMRfEyg9PInHZ5Mq4b&scisf=4&ct=citation&cd=-1&hl=en"><font size="3">[BibTeX]</font></a>
+  <a href="https://abdulsaleh.github.io/underconstruction"><font size="3">[BibTeX]</font></a>
   <a href="https://arxiv.org/pdf/1904.03513.pdf"><font size="3">[PDF]</font></a>
   <a href="https://github.com/AbdulSaleh/QCRI-MIT-SemEval2019-Task4"><font size="3">[Code]</font></a>
  
@@ -28,7 +28,7 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
   <br><font size="3"><b>Multi-Task Ordinal Regression for Jointly Predicting the Trustworthiness and Leading Political Ideology of News Media</b></font><br>
 <font size="3"><i>Proceedings of the 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)</i>
   </font><br />
-  <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:iajohVQTm3UJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXN97x8OAP3FMAON7C83wjoxxw7QPTy7-&scisf=4&ct=citation&cd=-1&hl=en"><font size="3">[BibTeX]</font></a>
+  <a href="https://abdulsaleh.github.io/underconstruction"><font size="3">[BibTeX]</font></a>
   <a href="https://arxiv.org/pdf/1904.00542.pdf"><font size="3">[PDF]</font></a> 
 </li>
 </ul>
