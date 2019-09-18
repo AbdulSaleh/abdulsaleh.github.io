@@ -11,17 +11,16 @@ author_profile: true
   ul {margin-right: 425px;line-height: 1;}
 }
 </style>
--->
-
 <style>
 @media screen and (min-width: 800px){
   ul {width: 500px; line-height: 0.95;}
 }
 </style>
+-->
 
 You can also find my articles on my <a href="https://scholar.google.com/citations?user=XkEZl0gAAAAJ&hl=en">[Google Scholar profile]</a>
 
-<ul>
+<ul style="width: 500px; line-height: 0.95;">
 <li ><font size="2"> A. Saleh, N. Jaques, A. Ghandeharioun, J. H. Shen, R. Picard</font>
   <br><font size="2"><b>Hierarchical Reinforcement Learning for Open-Domain Dialog</b></font><br>
 <font size="2"><i>arXiv preprint arXiv:1909.07547</i>
