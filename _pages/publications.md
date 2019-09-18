@@ -15,7 +15,7 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
 
 <ul>
 <li ><font size="2.8"> A. Saleh, N. Jaques, A. Ghandeharioun, J. H. Shen, R. Picard</font>
-  <br><font point-size="16"><b>Hierarchical Reinforcement Learning for Open-Domain Dialog</b></font><br>
+  <br><font point-size="12"><b>Hierarchical Reinforcement Learning for Open-Domain Dialog</b></font><br>
 <font size="2.8"><i>arXiv preprint arXiv:1909.07547</i>
   </font><br />
   <a href="https://abdulsaleh.github.io/_pages/bibtex/saleh2019hier.html"><font size="2.8">[BibTeX]</font></a>
