@@ -15,7 +15,7 @@ author_profile: true
 
 <style>
 @media screen and (min-width: 800px){
-  ul {width: 600px; line-height: 0.9;}
+  ul {width: 500px; line-height: 0.95;}
 }
 </style>
 
