@@ -20,8 +20,8 @@ author_profile: true
 
 You can also find my articles on my <a href="https://scholar.google.com/citations?user=XkEZl0gAAAAJ&hl=en">[Google Scholar profile]</a>
 
-<ul style="width: 500px; line-height: 0.95;">
-<li ><font size="2"> <b>A. Saleh</b>, N. Jaques, A. Ghandeharioun, J. H. Shen, R. Picard</font>
+<ul style="width: 500px; line-height: 0.95;" media="screen and (min-device-width: 800px)">
+  <li ><font size="2"> <b>A. Saleh</b><sup>*</sup>, N. Jaques<sup>*</sup>, A. Ghandeharioun, J. H. Shen, R. Picard</font>
   <br><font size="2"><b>Hierarchical Reinforcement Learning for Open-Domain Dialog</b></font><br>
 <font size="2"><i>arXiv preprint arXiv:1909.07547</i>
   </font><br />
