@@ -13,11 +13,17 @@ author_profile: true
 </style>
 -->
 
+<style>
+@media screen{
+  ul {line-height: 0.8;}
+}
+</style>
+
 You can also find my articles on my <a href="https://scholar.google.com/citations?user=XkEZl0gAAAAJ&hl=en">[Google Scholar profile]</a>
 
 <ul>
 <li ><font size="2.8"> A. Saleh, N. Jaques, A. Ghandeharioun, J. H. Shen, R. Picard</font>
-  <br><font point-size="12"><b>Hierarchical Reinforcement Learning for Open-Domain Dialog</b></font><br>
+  <br><font point-size="10"><b>Hierarchical Reinforcement Learning for Open-Domain Dialog</b></font><br>
 <font size="2.8"><i>arXiv preprint arXiv:1909.07547</i>
   </font><br />
   <a href="https://abdulsaleh.github.io/_pages/bibtex/saleh2019hier.html"><font size="2.8">[BibTeX]</font></a>
@@ -28,7 +34,7 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
   
   
 <li ><font size="2.8"> A. Saleh, R. Baly, A. Barron-Cedeno, G. Da San Martino, M. Mohtarami, P. Nakov, and J. Glass</font>
-  <br><font size="2.8"><b>Team QCRI-MIT at SemEval-2019 Task 4: Propaganda Analysis Meets Hyperpartisan News Detection</b></font><br>
+  <br><font point-size="10"><b>Team QCRI-MIT at SemEval-2019 Task 4: Propaganda Analysis Meets Hyperpartisan News Detection</b></font><br>
 <font size="2.8"><i>Proceedings of the 13th International Workshop on Semantic Evaluation (SemEval 2019)</i>
   </font><br />
   <a href="https://abdulsaleh.github.io/_pages/bibtex/saleh2019team.html"><font size="2.8">[BibTeX]</font></a>
