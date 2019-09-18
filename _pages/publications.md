@@ -14,6 +14,17 @@ author_profile: true
 You can also find my articles on my <a href="https://scholar.google.com/citations?user=XkEZl0gAAAAJ&hl=en">[Google Scholar profile]</a>
 
 <ul>
+<li ><font size="3"> A. Saleh, N. Jaques, A. Ghandeharioun, J. H. Shen, R. Picard</font>
+  <br><font size="3"><b>Hierarchical Reinforcement Learning for Open-Domain Dialog</b></font><br>
+<font size="3"><i>arXiv preprint arXiv:1909.07547</i>
+  </font><br />
+  <a href="https://abdulsaleh.github.io/underconstruction"><font size="3">[BibTeX]</font></a>
+  <a href="https://arxiv.org/pdf/1909.07547.pdf"><font size="3">[PDF]</font></a>
+  <a href="https://github.com/natashamjaques/neural_chat/tree/master/HierarchicalRL"><font size="3">[Code]</font></a>
+ 
+</li>
+  
+  
 <li ><font size="3"> A. Saleh, R. Baly, A. Barron-Cedeno, G. Da San Martino, M. Mohtarami, P. Nakov, and J. Glass</font>
   <br><font size="3"><b>Team QCRI-MIT at SemEval-2019 Task 4: Propaganda Analysis Meets Hyperpartisan News Detection</b></font><br>
 <font size="3"><i>Proceedings of the 13th International Workshop on Semantic Evaluation (SemEval 2019)</i>
