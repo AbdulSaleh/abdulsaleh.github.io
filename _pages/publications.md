@@ -5,11 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+<!--
 <style>
 @media screen and (min-width: 800px) {
   ul {margin-right: 425px;line-height: 1;}
 }
 </style>
+-->
 
 You can also find my articles on my <a href="https://scholar.google.com/citations?user=XkEZl0gAAAAJ&hl=en">[Google Scholar profile]</a>
 
