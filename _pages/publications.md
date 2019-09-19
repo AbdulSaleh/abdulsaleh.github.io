@@ -22,12 +22,10 @@ author_profile: true
 
 <style type="text/css">
 @media screen and (min-width: 800px){
-  .mystyle {width: 500px; line-height: 0.95;}
+  .mystyle {width: 500px; line-height: 0.95}
 }
-  
-@media screen and
-    and (min-device-width : 320px)
-    and (max-device-width : 480px){ 
+
+@media screen and (min-width : 320px) and (max-width : 480px){
      .mystyle {}
      }
 </style>
