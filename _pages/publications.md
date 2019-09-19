@@ -20,7 +20,7 @@ author_profile: true
 -->
 
 
-<style>
+<style type="text/css">
 @media screen and (min-width: 800px){
   .mystyle {width: 500px; line-height: 0.95;}
 }
