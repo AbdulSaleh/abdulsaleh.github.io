@@ -22,21 +22,20 @@ author_profile: true
 
 <style>
 @media screen and (min-width: 800px){
-  mystyle = "width: 500px; line-height: 0.95;"
+  .mystyle {width: 500px; line-height: 0.95;}
 }
-  
   
 @media screen and
     and (min-device-width : 320px)
     and (max-device-width : 480px){ 
-     mystyle = ""
+     .mystyle {}
      }
 </style>
 
 
 You can also find my articles on my <a href="https://scholar.google.com/citations?user=XkEZl0gAAAAJ&hl=en">[Google Scholar profile]</a>
 <div id="content-desktop">
-<ul style=mystyle>
+<ul style="mystyle">
   <li ><font size="2"> <b>A. Saleh</b><sup>*</sup>, N. Jaques<sup>*</sup>, A. Ghandeharioun, J. H. Shen, R. Picard</font>
   <br><font size="2"><b>Hierarchical Reinforcement Learning for Open-Domain Dialog</b></font><br>
 <font size="2"><i>arXiv preprint arXiv:1909.07547</i>
