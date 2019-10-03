@@ -34,7 +34,7 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
 <ul class="mystyle">
   <li ><font size="2"> <b>A. Saleh</b><sup>*</sup>, N. Jaques<sup>*</sup>, A. Ghandeharioun, J. H. Shen, R. Picard</font>
   <br><font size="2"><b>Hierarchical Reinforcement Learning for Open-Domain Dialog</b></font><br>
-<font size="2"><i>arXiv preprint arXiv:1909.07547</i>
+<font size="2"><i>The 3rd NeurIPS Workshop for Conversational Artificial Intelligence 2019</i>
   </font><br />
   <a href="https://abdulsaleh.github.io/_pages/bibtex/saleh2019hier.html"><font size="2">[BibTeX]</font></a>
   <a href="https://arxiv.org/pdf/1909.07547.pdf"><font size="2">[PDF]</font></a>
