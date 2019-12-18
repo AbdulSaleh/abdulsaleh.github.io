@@ -57,7 +57,7 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
 
 <li ><font size="2"> R. Baly, G. Karadzhov, <b>A. Saleh</b>, J. Glass, and P. Nakov</font>
   <br><font size="2"><b>Multi-Task Ordinal Regression for Jointly Predicting the Trustworthiness and Leading Political Ideology of News Media</b></font><br>
-<font size="2"><i>Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2019)</i>
+<font size="2"><i><b>Oral Presentation.</b> Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2019)</i>
   </font><br />
   <a href="https://abdulsaleh.github.io/_pages/bibtex/baly2019multi.html"><font size="2">[BibTeX]</font></a>
   <a href="https://arxiv.org/pdf/1904.00542.pdf"><font size="2">[PDF]</font></a>
