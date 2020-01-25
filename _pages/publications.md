@@ -42,6 +42,12 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
   <a href="https://arxiv.org/pdf/1909.07547.pdf"><font size="2">[PDF]</font></a>
   <a href="https://github.com/natashamjaques/neural_chat/tree/master/HierarchicalRL"><font size="2">[Code]</font></a>
 
+  <br />
+  <a href="https://abdulsaleh.github.io/files/HRL_poster.pdf"><font size="2">[Poster]</font></a>
+  <!-- <a href="https://abdulsaleh.github.io/files/HRL_presentation.pdf"><font size="2">[Presentation]</font></a>
+  <a href="https://HRL talk url"><font size="2">[Talk]</font></a>
+ -->
+
 </li>
 
 <li ><font size="2"> <b>A. Saleh</b>, S. Casper, T. Deutsch, S. Shieber, Y. Belinkov</font>
