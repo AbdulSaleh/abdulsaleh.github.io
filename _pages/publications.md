@@ -68,6 +68,8 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
   <a href="https://abdulsaleh.github.io/_pages/bibtex/saleh2019team.html"><font size="2">[BibTeX]</font></a>
   <a href="https://arxiv.org/pdf/1904.03513.pdf"><font size="2">[PDF]</font></a>
   <a href="https://github.com/AbdulSaleh/QCRI-MIT-SemEval2019-Task4"><font size="2">[Code]</font></a>
+  <br />
+  <a href="https://abdulsaleh.github.io/files/SemEval_poster.pdf"><font size="2">[Poster]</font></a>
 
 </li>
 
