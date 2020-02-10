@@ -44,9 +44,9 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
 
   <br />
   <a href="https://abdulsaleh.github.io/files/HRL_poster.pdf"><font size="2">[Poster]</font></a>
-  <!-- <a href="https://abdulsaleh.github.io/files/HRL_presentation.pdf"><font size="2">[Presentation]</font></a>
+  <a href="https://abdulsaleh.github.io/files/HRL_AAAI_Presentation.pdf"><font size="2">[Presentation]</font></a>
   <a href="https://HRL talk url"><font size="2">[Talk]</font></a>
- -->
+
 
 </li>
 
