@@ -29,9 +29,24 @@ author_profile: true
 </style>
 
 
-You can also find my articles on my <a href="https://scholar.google.com/citations?user=XkEZl0gAAAAJ&hl=en">[Google Scholar profile]</a>
+You can also find my papers at my <a href="https://scholar.google.com/citations?user=XkEZl0gAAAAJ&hl=en">[Google Scholar profile]</a>
+
+
+
 
 <ul class="mystyle">
+
+<li ><font size="2"> <b>A. Saleh</b></font>
+  <br><font size="2"><b>Towards Social and Interpretable Neural Dialog Systems</b></font><br>
+<font size="2"><i>Senior Thesis</i>
+  </font><br />
+  <a href="https://abdulsaleh.github.io/_pages/bibtex/saleh2020social.html"><font size="2">[BibTeX]</font></a>
+  <a href="https://abdulsaleh.github.io/files/AbdulSaleh_Social_and_Interpretable_Dialog_Systems.pdf"><font size="2">[PDF]</font></a>
+  <a href="https://github.com/AbdulSaleh/dialog-probing"><font size="2">[Code]</font></a>
+
+</li>
+
+
   <li ><font size="2"> <b>A. Saleh</b><sup>*</sup>, N. Jaques<sup>*</sup>, A. Ghandeharioun, J. H. Shen, R. Picard</font>
   <br><font size="2"><b>Hierarchical Reinforcement Learning for Open-Domain Dialog</b></font><br>
 <font size="2"><i><font color="blue">Oral Presentation.</font> Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI 2020).</i>
