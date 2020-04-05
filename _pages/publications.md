@@ -65,15 +65,14 @@ You can also find my papers at my <a href="https://scholar.google.com/citations?
 
 </li>
 
-<!-- <li ><font size="2"> <b>A. Saleh</b>, S. Casper, T. Deutsch, S. Shieber, Y. Belinkov</font>
+<li ><font size="2"> <b>A. Saleh</b>, T. Deutsch<sup>*</sup>, S. Casper<sup>*</sup>,  S. Shieber, Y. Belinkov</font>
   <br><font size="2"><b>Probing Neural Dialog Models for Conversational Understanding</b></font><br>
-<font size="2"><i>Work in progress!</i>
+<font size="2"><i>Coming soon!</i>
   </font><br />
-  <a href="https://abdulsaleh.github.io/_pages/bibtex/saleh2019team.html"><font size="2">[BibTeX]</font></a>
+  <!-- <a href="https://abdulsaleh.github.io/_pages/bibtex/saleh2019team.html"><font size="2">[BibTeX]</font></a>
   <a href="https://arxiv.org/pdf/1904.03513.pdf"><font size="2">[PDF]</font></a>
-  <a href="https://github.com/AbdulSaleh/QCRI-MIT-SemEval2019-Task4"><font size="2">[Code]</font></a>
-
-</li> -->
+  <a href="https://github.com/AbdulSaleh/QCRI-MIT-SemEval2019-Task4"><font size="2">[Code]</font></a> -->
+</li>
 
 
 <li ><font size="2"> <b>A. Saleh</b>, R. Baly, A. Barron-Cedeno, G. Da San Martino, M. Mohtarami, P. Nakov, and J. Glass</font>
