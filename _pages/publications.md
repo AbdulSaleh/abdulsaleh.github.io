@@ -47,6 +47,15 @@ You can also find my papers at my <a href="https://scholar.google.com/citations?
 </li>
 
 
+<li ><font size="2"> <b>A. Saleh</b>, T. Deutsch<sup>*</sup>, S. Casper<sup>*</sup>,  S. Shieber, Y. Belinkov</font>
+  <br><font size="2"><b>Probing Neural Dialog Models for Conversational Understanding</b></font><br>
+<font size="2"><i>Coming soon!</i>
+  </font><br />
+  <!-- <a href="https://abdulsaleh.github.io/_pages/bibtex/saleh2019team.html"><font size="2">[BibTeX]</font></a>
+  <a href="https://arxiv.org/pdf/1904.03513.pdf"><font size="2">[PDF]</font></a>
+  <a href="https://github.com/AbdulSaleh/QCRI-MIT-SemEval2019-Task4"><font size="2">[Code]</font></a> -->
+</li>
+
   <li ><font size="2"> <b>A. Saleh</b><sup>*</sup>, N. Jaques<sup>*</sup>, A. Ghandeharioun, J. H. Shen, R. Picard</font>
   <br><font size="2"><b>Hierarchical Reinforcement Learning for Open-Domain Dialog</b></font><br>
 <font size="2"><i><font color="blue">Oral Presentation.</font> Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI 2020).</i>
@@ -62,17 +71,8 @@ You can also find my papers at my <a href="https://scholar.google.com/citations?
   <a href="https://abdulsaleh.github.io/files/HRL_AAAI_Presentation.pdf"><font size="2">[Presentation]</font></a>
   <!-- <a href="https://HRL talk url"><font size="2">[Talk]</font></a> -->
 
-
 </li>
 
-<li ><font size="2"> <b>A. Saleh</b>, T. Deutsch<sup>*</sup>, S. Casper<sup>*</sup>,  S. Shieber, Y. Belinkov</font>
-  <br><font size="2"><b>Probing Neural Dialog Models for Conversational Understanding</b></font><br>
-<font size="2"><i>Coming soon!</i>
-  </font><br />
-  <!-- <a href="https://abdulsaleh.github.io/_pages/bibtex/saleh2019team.html"><font size="2">[BibTeX]</font></a>
-  <a href="https://arxiv.org/pdf/1904.03513.pdf"><font size="2">[PDF]</font></a>
-  <a href="https://github.com/AbdulSaleh/QCRI-MIT-SemEval2019-Task4"><font size="2">[Code]</font></a> -->
-</li>
 
 
 <li ><font size="2"> <b>A. Saleh</b>, R. Baly, A. Barron-Cedeno, G. Da San Martino, M. Mohtarami, P. Nakov, and J. Glass</font>
