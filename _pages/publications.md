@@ -47,7 +47,7 @@ You can also find my papers at my <a href="https://scholar.google.com/citations?
 </li>
 
 
-<li ><font size="2"> <b>A. Saleh</b>, T. Deutsch<sup>*</sup>, S. Casper<sup>*</sup>,  S. Shieber, Y. Belinkov</font>
+<li ><font size="2"> <b>A. Saleh</b>, T. Deutsch<sup>*</sup>, S. Casper<sup>*</sup>, Y. Belinkov, S. Shieber</font>
   <br><font size="2"><b>Probing Neural Dialog Models for Conversational Understanding</b></font><br>
 <font size="2"><i>Coming soon!</i>
   </font><br />
