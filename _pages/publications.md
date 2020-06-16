@@ -49,7 +49,7 @@ You can also find my papers at my <a href="https://scholar.google.com/citations?
 
 <li ><font size="2"> <b>A. Saleh</b>, T. Deutsch<sup>*</sup>, S. Casper<sup>*</sup>, Y. Belinkov, S. Shieber</font>
   <br><font size="2"><b>Probing Neural Dialog Models for Conversational Understanding</b></font><br>
-<font size="2"><i>Second ACL Workshop on NLP for Conversational Artificial Intelligence 2020</i>
+<font size="2"><i>Second ACL Workshop on NLP for Conversational Artificial Intelligence (NLP4ConvAI 2020) </i>
   </font><br />
   <a href="https://abdulsaleh.github.io/_pages/bibtex/saleh2020probing.html"><font size="2">[BibTeX]</font></a>
   <a href="https://arxiv.org/pdf/2006.08331.pdf"><font size="2">[PDF]</font></a>
@@ -60,7 +60,7 @@ You can also find my papers at my <a href="https://scholar.google.com/citations?
   <br><font size="2"><b>Hierarchical Reinforcement Learning for Open-Domain Dialog</b></font><br>
 <font size="2"><i><font color="blue">Oral Presentation.</font> Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI 2020).</i>
   </font><br />
-  <font size="2"><i><font color="blue">Best Paper Award Nomination.</font> Third NeurIPS Workshop on Conversational Artificial Intelligence 2019 (ConvAI 2019).</i>
+  <font size="2"><i><font color="blue">Best Paper Award Nomination.</font> Third NeurIPS Workshop on Conversational Artificial Intelligence (ConvAI 2019).</i>
     </font><br />
   <a href="https://abdulsaleh.github.io/_pages/bibtex/saleh2019hier.html"><font size="2">[BibTeX]</font></a>
   <a href="https://arxiv.org/pdf/1909.07547.pdf"><font size="2">[PDF]</font></a>
