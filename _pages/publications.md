@@ -41,7 +41,7 @@ You can also find my papers at my <a href="https://scholar.google.com/citations?
 <font size="2"><i>Senior Thesis</i>
   </font><br />
   <a href="https://abdulsaleh.github.io/_pages/bibtex/saleh2020social.html"><font size="2">[BibTeX]</font></a>
-  <a href="https://abdulsaleh.github.io/files/AbdulSaleh_Social_and_Interpretable_Dialog_Systems.pdf"><font size="2">[PDF]</font></a>
+  <a href="https://abdulsaleh.github.io/files/AbdulSaleh_Social_Dialog_Systems.pdf"><font size="2">[PDF]</font></a>
   <a href="https://github.com/AbdulSaleh/dialog-probing"><font size="2">[Code]</font></a>
 
 </li>
